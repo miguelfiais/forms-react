@@ -6,8 +6,11 @@ export const Label = styled.label`
     margin-bottom: 40px;
     input{
         width: 300px;
-        height: 25px;
+        height: 30px;
         border-radius: 5px;
+        border: 1px solid #C4C4C4;
+        outline: none;
+        padding-left: 10px;
     }
 
 `

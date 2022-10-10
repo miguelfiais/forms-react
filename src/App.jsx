@@ -20,7 +20,6 @@ function App() {
   function onSubmit(userData){
     console.log(userData)
   }
-  console.log(errors)
   return (
     <Fieldset>
       <legend><ImgLogo src={FormLogo} alt="" /></legend>
